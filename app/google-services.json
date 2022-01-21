@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075616613448",
+    "project_id": "camera-face-detection-e6744",
+    "storage_bucket": "camera-face-detection-e6744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075616613448:android:034728d63ab16a45f3c47d",
+        "android_client_info": {
+          "package_name": "com.camerafacedetection.camerafacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075616613448-840a92mdd7iu5bhbp5fol5d8bldnb9sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camerafacedetection.camerafacedetection",
+            "certificate_hash": "b7d27b2ebb18a0437731f4352ee2abfc1ec3824f"
+          }
+        },
+        {
+          "client_id": "1075616613448-d9lc2qeh746nv6lij2gbh5nun3b3ert8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDb1gsZ4coC9pd0iJt6DOH7lCUGKZuQc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075616613448-d9lc2qeh746nv6lij2gbh5nun3b3ert8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

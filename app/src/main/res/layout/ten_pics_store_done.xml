@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/_20sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_15sdp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Successfully stored 10 Pictures."
+            android:textColor="@color/black"
+            android:textSize="@dimen/_15sdp"
+            android:textStyle="italic|bold" />
+
+        <Button
+            android:id="@+id/closeBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_35sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:paddingStart="@dimen/_10sdp"
+            android:paddingEnd="@dimen/_10sdp"
+            android:text="Close"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

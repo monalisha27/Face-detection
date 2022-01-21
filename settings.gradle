@@ -1,0 +1,2 @@
+rootProject.name = "Camera Face Detection"
+include ':app'
